@@ -1,0 +1,6 @@
+@IAM.Infrastructure.WebApi_HostAddress = http://localhost:5069
+
+GET {{IAM.Infrastructure.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
