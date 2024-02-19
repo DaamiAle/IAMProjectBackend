@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.ComponentModel.Composition" Version="8.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\Domain\IAM.Domain.DataTransferObject\IAM.Domain.DataTransferObject.csproj" />
     <ProjectReference Include="..\..\Domain\IAM.Domain.Entity\IAM.Domain.Entity.csproj" />
     <ProjectReference Include="..\..\Domain\IAM.Domain.Interface\IAM.Domain.Interface.csproj" />
